@@ -29,7 +29,7 @@ We recommend to peel off the tape from the backside of the breadboards, which re
 To extract the remaining strips, we either used our own tape, placed it across the backside of the breadboard, and peeled it off to release more of the terminal strips or used a needle to push the remaining strips out.
 
 
-...
+___
 
 This project is published on The ACM CHI Conference on Human Factors in Computing Systems.(CHI 2023)<a name="footnote_1">1</a>
 
