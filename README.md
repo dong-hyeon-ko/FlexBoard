@@ -30,12 +30,11 @@ To extract the remaining strips, we either used our own tape, placed it across t
 
 
 ___
+FlexBoard project is published on The ACM CHI Conference on Human Factors in Computing Systems.(CHI 2023)<a name="footnote_1">*</a>
 
-This project is published on The ACM CHI Conference on Human Factors in Computing Systems.(CHI 2023)<a name="footnote_1">*</a>
+If you have any questions/requests, please email to dong7863@gmail.com
 
-If you have any questions, please email to dong7863@gmail.com
-
-Thank you and enjoy:)
+Thank you and enjoy :)
 ___
 <a name="footnote_1">*</a> Donghyeon Ko, Yoonji Kim, Junyi Zhu, Michael Wessely, and Stefanie Mueller. 2023. FlexBoard: A Flexible Breadboard for Interaction Prototyping on Curved and Deformable Surfaces. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg, Germany) (CHI
 ’23). Association for Computing Machinery, New York, NY, USA. <https://doi.org/10.1145/3544548.3580748>
