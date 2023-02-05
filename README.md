@@ -21,7 +21,7 @@ Of course, they can directly download stl files(we provide 3 hinge units and 72 
 **3D printing**
 
 FlexBoard can be printed with common FDM 3D printer.
-Our hinge design is designed for nylon filament(FYI, we used 245 $\degree$ C nozzle temperature & 70 $\degree$ C bed temperature). PLA filament is a bit stiff and hardly afford repeatitive bending.
+Our hinge design is designed for nylon filament(FYI, we used 245 $\degree$C nozzle temperature & 70 $\degree$C bed temperature). PLA filament is a bit stiff and hardly afford repeatitive bending.
 We recommend to print less than 0.3mm nozzle size and set the layer height to 0.15mm in the slicer to preserve the details of the living hinge pattern.
 
 **Extracting Terminal Strips**
