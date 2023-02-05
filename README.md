@@ -1,20 +1,23 @@
 ### FlexBoard
 Here, we present FlexBoard template and its drafting.
 
-##What is FlexBoard?
+
+## What is FlexBoard?
 FlexBoard is Flexible breadboarding platform that has upward/downward bending capability and plugging spots like breadboard.
 FlexBoard enables rapid prototyping with interactive components such as sensors, actuators and displays on curved and deformable objects. 
 
-#Design of FlexBoard
+
+# Design of FlexBoard
 FlexBoard is designed from a flexible living hinge. The hinges tightly hold the metal strips of conventional breadboard while keeping flexibility.
 FlexBoard can be either cut into specific length or joined with other hinges through ball joint systems.
 
 
-##Fabrication of FlexBoard
+## Fabrication of FlexBoard
 Users can refer our drafting and customize it to their own purposes.
 Of course, they can directly download stl files(we provide 3 hinge units and 72 hinge) and play with it.
 
-#How to make FlexBoard?
+
+# How to make FlexBoard?
 **3D printing**
 FlexBoard can be printed with common FDM 3D printer.
 Our hinge design is designed for nylon filament(FYI, we used 245 oC with bed temperature 70 oC). PLA filament is a bit stiff and hardly afford repeatitive bending.
