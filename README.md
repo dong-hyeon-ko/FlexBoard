@@ -19,11 +19,13 @@ Of course, they can directly download stl files(we provide 3 hinge units and 72 
 
 ### How to make FlexBoard?
 **3D printing**
+
 FlexBoard can be printed with common FDM 3D printer.
-Our hinge design is designed for nylon filament(FYI, we used 245 oC with bed temperature 70 oC). PLA filament is a bit stiff and hardly afford repeatitive bending.
+Our hinge design is designed for nylon filament(FYI, we used 245 $\desgree$C with bed temperature 70 $\desgree$C). PLA filament is a bit stiff and hardly afford repeatitive bending.
 We recommend to print less than 0.3mm nozzle size and set the layer height to 0.15mm in the slicer to preserve the details of the living hinge pattern.
 
 **Extracting Terminal Strips**
+
 Users can extract metal strip from existing breadboard. 
 We recommend to peel off the tape from the backside of the breadboards, which released most of the terminal strips from the board.
 To extract the remaining strips, we either used our own tape, placed it across the backside of the breadboard, and peeled it off to release more of the terminal strips or used a needle to push the remaining strips out.
