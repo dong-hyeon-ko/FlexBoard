@@ -32,7 +32,8 @@ To extract the remaining strips, we either used our own tape, placed it across t
 ___
 
 This project is published on The ACM CHI Conference on Human Factors in Computing Systems.(CHI 2023)<a name="footnote_1">*</a>
-For question, please email to dong7863@gmail.com
+
+If you have any questions, please email to dong7863@gmail.com
 
 Thank you and enjoy:)
 ___
